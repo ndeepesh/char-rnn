@@ -1,0 +1,2 @@
+# char-rnn
+Vanilla RNN
