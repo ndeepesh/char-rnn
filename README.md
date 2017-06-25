@@ -1,2 +1,2 @@
 # char-rnn
-Vanilla RNN
+Vanilla RNN(Implementation not complete yet..)
